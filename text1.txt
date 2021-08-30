@@ -2,4 +2,5 @@ welcome to git !!!
 
 Hello all
 
+check diff
 check status
