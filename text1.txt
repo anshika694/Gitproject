@@ -29,6 +29,7 @@ change 8-> to fix bug2
 
 Change 9-> for stash, half done work
 
-Change 9-> to work on CR1.
+Change 10-> to work on CR1.
 
 to check pull operation for WI*
+change 11 ->  on remote master by teammate for CR2 to chec fetch
