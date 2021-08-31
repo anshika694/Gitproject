@@ -31,3 +31,4 @@ Change 9-> for stash, half done work
 
 Change 9-> to work on CR1.
 
+to check pull operation for WI*
