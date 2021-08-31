@@ -8,6 +8,7 @@ check status
 
 Hello all
 
+
 change 1- to fix the bug 1
 
 change 2- for WI4 by team mate
@@ -16,4 +17,13 @@ change 3- to fix bug2
 
 Change 4- to work on CR1.
 
-Change 6- WI5
+Change 5- WI5
+
+change 6-> to fix the bug 1
+
+change 7-> for WI5 by team mate
+
+change 8-> to fix bug2
+
+Change 9-> to work on CR1.
+
