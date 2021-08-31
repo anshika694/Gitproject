@@ -1,6 +1,10 @@
 welcome to git !!!
 
+<<<<<<< HEAD
 Hello all
 
 check diff
 check status
+=======
+Hello all
+>>>>>>> parent of f9bdd5b (WI2: text1 updated and text2 created, add multiple)
