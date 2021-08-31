@@ -1,14 +1,15 @@
 welcome to git !!!
 
-<<<<<<< HEAD
+
 Hello all
 
 check diff
 check status
-=======
+
 Hello all
->>>>>>> parent of f9bdd5b (WI2: text1 updated and text2 created, add multiple)
 
 change -to fix the bug 1
 
 change- for WI4 by team mate
+
+change _to fix bug2
