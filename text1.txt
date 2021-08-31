@@ -32,4 +32,9 @@ Change 9-> for stash, half done work
 Change 10-> to work on CR1.
 
 to check pull operation for WI*
+
 change 11 ->  on remote master by teammate for CR2 to chec fetch
+
+
+Change 12 -> WI9 on local master to check fetch before pull
+
