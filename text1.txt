@@ -10,3 +10,5 @@ Hello all
 >>>>>>> parent of f9bdd5b (WI2: text1 updated and text2 created, add multiple)
 
 change to fix the bug 1
+
+change to fix bug 2
