@@ -23,6 +23,8 @@ change 6-> to fix the bug 1
 
 change 7-> for WI5 by team mate
 
+file updated to check remote
+
 change 8-> to fix bug2
 
 Change 9-> for stash, half done work
