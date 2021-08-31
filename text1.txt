@@ -8,8 +8,12 @@ check status
 
 Hello all
 
-change -to fix the bug 1
+change 1- to fix the bug 1
 
-change- for WI4 by team mate
+change 2- for WI4 by team mate
 
-change _to fix bug2
+change 3- to fix bug2
+
+Change 4- to work on CR1.
+
+Change 6- WI5
